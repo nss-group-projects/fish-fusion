@@ -21,7 +21,7 @@ npm install
 | #   | 🐡 Fish Fusion 🍣 |
 | --- | --- |
 | 1   | [Project Setup](./chapters/VEGGISH_SETUP.md)|
-| 2   | [The Fishing Boat](client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_BOAT.md) |
+| 2   | [The Fishing Boat]([client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_BOAT.md](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_BOAT.md)) |
 | 3   | [The Monger](./chapters/VEGGISH_MONGER.md) |
 | 4   | [The Restaurant](./chapters/VEGGISH_FUSION.md) |
 | 5   | [Menu Du Jour](./chapters/VEGGISH_MENU.md) |
