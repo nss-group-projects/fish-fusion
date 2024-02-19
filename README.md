@@ -20,11 +20,10 @@ npm install
 
 | #   | 🐡 Fish Fusion 🍣 |
 | --- | --- |
-| 1   | [Project Setup](./chapters/VEGGISH_SETUP.md)|
-| 2   | [The Fishing Boat](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_BOAT.md) |
-| 3   | [The Monger](./chapters/VEGGISH_MONGER.md) |
-| 4   | [The Restaurant](./chapters/VEGGISH_FUSION.md) |
-| 5   | [Menu Du Jour](./chapters/VEGGISH_MENU.md) |
+| 1   | [The Fishing Boat](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_BOAT.md) |
+| 2   | [The Monger](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MONGER.md) |
+| 3   | [The Restaurant](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_FUSION.md) |
+| 4   | [Menu Du Jour](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MENU.md) |
 
 ## 🧭 Explorer Chapters
 
@@ -32,5 +31,5 @@ These Explorer chapters are **optional** for teams who want to explore more adva
 
 | #   | 🐡 Fish Fusion 🍣 |
 |---|---|
-| 1   | [Introducting to Automated Testing](./chapters/VEGGISH_TESTS.md) |
-| 2   | [Conversion With Map Array Method](./chapters/VEGGISH_MAP_METHOD.md) |
+| 1   | [Introducting to Automated Testing](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_TESTS.md) |
+| 2   | [Conversion With Map Array Method](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MAP_METHOD.md) |
