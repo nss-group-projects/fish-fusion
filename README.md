@@ -12,24 +12,12 @@ There are 3 different actors in this system, and you will write functions in mul
 
 It is **crucial** that your team reads all of the requirements and builds an algorithm with comments before you write a single line of code. It is highly recommended that you build the algorithm completely and review it with one of your instructors before starting on implementation.
 
-## Setup and Requirements
-
-```sh
-npm install
-```
+## Requirements
 
 | #   | 🐡 Fish Fusion 🍣 |
 | --- | --- |
-| 1   | [The Fishing Boat](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_BOAT.md) |
-| 2   | [The Monger](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MONGER.md) |
-| 3   | [The Restaurant](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_FUSION.md) |
-| 4   | [Menu Du Jour](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MENU.md) |
-
-## 🧭 Explorer Chapters
-
-These Explorer chapters are **optional** for teams who want to explore more advanced concepts beyond the core material.
-
-| #   | 🐡 Fish Fusion 🍣 |
-|---|---|
-| 1   | [Introducting to Automated Testing](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_TESTS.md) |
-| 2   | [Conversion With Map Array Method](https://github.com/nashville-software-school/client-side-mastery/blob/master/projects/tier-1/fish-fusion/chapters/VEGGISH_MAP_METHOD.md) |
+| 1   | [The Fishing Boat](./requirements/FISHING_BOAT.md) |
+| 2   | [The Monger](./requirements/FISH_MONGER.md) |
+| 3   | [The Restaurant](./requirements/RESTAURANT.md) |
+| 4   | [Menu Example](./requirements/EXAMPLE_OUTPUT.md) |
+| 5   | [Advanced Iteration](./requirements/MAP_METHOD.md) |
