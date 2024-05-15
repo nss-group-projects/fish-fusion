@@ -1,5 +1,7 @@
 # Array Method Introduction
 
+> 🧨 This chapter is for when you've completed the algorithm in the previous chapters. Once you have the menu being generated, then come back to this chapter.
+
 Up to this point, you've been iterating arrays with `for..of` loops, which are very efficient. In this chapter, you will explore how to do the same with array methods.
 
 Array methods are complex abstractions for beginners because the syntax is not as straightforward and easy to read. You need to understand that iteration happens even though you don't see a `for..of` loop. We encourage you to employ the help of generative AI tools to help guide you to a solution.
