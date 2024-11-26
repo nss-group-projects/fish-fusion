@@ -1,4 +1,4 @@
-const { fishMenu } = require("./restaurant.js")
+import { fishMenu } from "./restaurant.js"
 
 
 const dailyPriceLimit = 3.99
