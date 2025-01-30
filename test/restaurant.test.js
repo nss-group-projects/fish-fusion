@@ -1,5 +1,4 @@
 import { fishMenu } from "../restaurant.js";
-const { JSDOM } = require("jsdom");
 
 describe("Restaurant", () => {
 
